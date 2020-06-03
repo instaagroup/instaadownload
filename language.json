@@ -1,0 +1,8 @@
+{
+    "requested": "I'm not following this account yet, however I saved your request of account. We will determine later if we should follow.",
+    "images_not_supported": "Images are not supported yet.",
+    "video_to_long": "This video is longer than 60s therefore we're unable to send it via dms.",
+    "links_not_supported": "Links are currently not supported. If its a video resend it using the arrow button.",
+    "blocked": "The post you were sending is either a post from someone who blocked us or an IGTV post. IGTV is not supported.",
+    "deleted": "That account/post is currently shadowbanned. Try again later."
+}
