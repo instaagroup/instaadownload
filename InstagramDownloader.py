@@ -914,12 +914,13 @@ class InboxHandler(object):
             elif item.item_type == "media_share":
                 self.handle_media_share(username, item)
 
-cfg = Config(Path("config.json"))
-sessionpath = Path("sessions/{u}.session".format(u = username))
-
 
 username = "USERNAME"
 password = "PASSWORD"
+                
+cfg = Config(Path("config.json"))
+sessionpath = Path("sessions/{u}.session".format(u = username))
+
 mainlogin = InstagramLogin(username, password, Path("./sessions"))
 api = mainlogin.api
 
