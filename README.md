@@ -1,8 +1,8 @@
 # instaadownload
 
 Requirements:
-- Python 3
-- FFMPEG (installed and added to the PATH variable)
+- [Python 3](https://www.python.org/downloads/)
+- [FFMPEG](https://ffmpeg.org/download.html) (installed and added to the PATH variable)
 
 Setup:
 1. Clone the repo
