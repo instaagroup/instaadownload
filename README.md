@@ -10,3 +10,19 @@ Setup:
 3. search for self.admins and put in the usernames you want to be admins
 4. install the requirements (pip install -r requirements.txt) in the correct folder
 5. run python InstagramDownloader.py and wait for 3 logins to happen
+
+
+Admincommands: (if youre in the self.admins)
+Priority
+!upgrade <user>
+!downgrade <user>
+
+Antispam:
+!remove <username> (removes queue items from given username)
+
+!delay - avg delay by priority level
+!reset - resets the delay log
+
+!most - user with most items in queue (used to find spammers)
+
+!day - downloads of the day (bugging and sometimes switches the current day and the next day)
