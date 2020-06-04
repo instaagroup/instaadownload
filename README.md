@@ -14,11 +14,11 @@ Setup:
 
 ## Admincommands: (if youre in the self.admins)
 ### Priority
-- !upgrade <user>
-- !downgrade <user>
+- !upgrade [user]
+- !downgrade [user]
 
 ### Antispam:
-- !remove <username> (removes queue items from given username)
+- !remove [username] (removes queue items from given username)
 
 ### Other
 - !delay - avg delay by priority level
