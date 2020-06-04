@@ -12,7 +12,7 @@ Setup:
 5. run python InstagramDownloader.py and wait for 3 logins to happen
 
 
-Admincommands: (if youre in the self.admins)
+## Admincommands: (if youre in the self.admins)
 ### Priority
 - !upgrade <user>
 - !downgrade <user>
