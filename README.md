@@ -13,16 +13,17 @@ Setup:
 
 
 Admincommands: (if youre in the self.admins)
-Priority
-!upgrade <user>
-!downgrade <user>
+### Priority
+- !upgrade <user>
+- !downgrade <user>
 
-Antispam:
-!remove <username> (removes queue items from given username)
+### Antispam:
+- !remove <username> (removes queue items from given username)
 
-!delay - avg delay by priority level
-!reset - resets the delay log
+### Other
+- !delay - avg delay by priority level
+- !reset - resets the delay log
 
-!most - user with most items in queue (used to find spammers)
+- !most - user with most items in queue (used to find spammers)
 
-!day - downloads of the day (bugging and sometimes switches the current day and the next day)
+- !day - downloads of the day (bugging and sometimes switches the current day and the next day)
