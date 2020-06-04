@@ -1,4 +1,9 @@
 # instaadownload
+
+Requirements:
+- Python 3
+- FFMPEG (installed and added to the PATH variable)
+
 Setup:
 1. Clone the repo
 2. Edit the InstagramDownloader.py file. At the bottom should be a username and a password variable
